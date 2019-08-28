@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickStore", "ChickStore.csproj", "{14DBE3D8-FCE2-49E5-BA43-8BCC5B59C762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{BFC47FAF-3C64-4E84-8F70-240D4AABED7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessAccessLayer", "..\BussinessAccessLayer\BussinessAccessLayer.csproj", "{A8D8BFC7-3C36-46D4-AFAB-412792FD20F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DBE3D8-FCE2-49E5-BA43-8BCC5B59C762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DBE3D8-FCE2-49E5-BA43-8BCC5B59C762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DBE3D8-FCE2-49E5-BA43-8BCC5B59C762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DBE3D8-FCE2-49E5-BA43-8BCC5B59C762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC47FAF-3C64-4E84-8F70-240D4AABED7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC47FAF-3C64-4E84-8F70-240D4AABED7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC47FAF-3C64-4E84-8F70-240D4AABED7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC47FAF-3C64-4E84-8F70-240D4AABED7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D8BFC7-3C36-46D4-AFAB-412792FD20F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D8BFC7-3C36-46D4-AFAB-412792FD20F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D8BFC7-3C36-46D4-AFAB-412792FD20F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D8BFC7-3C36-46D4-AFAB-412792FD20F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

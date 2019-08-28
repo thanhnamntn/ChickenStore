@@ -1,0 +1,58 @@
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\bin\Debug\ChickStore.exe.config
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\bin\Debug\ChickStore.exe
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\bin\Debug\ChickStore.pdb
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\bin\Debug\BussinessAccessLayer.dll
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\bin\Debug\DataAccessLayer.dll
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\bin\Debug\BussinessAccessLayer.pdb
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.CongVaLuong.frmChamCong.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.CongVaLuong.frmTinhLuong.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.DoanhThu.frmQuanLyThuChiCuoiCa.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.DoanhThu.frmQuanLyThuChiCuoiThang.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.Khac.frmAbout.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.Khac.frmSplash.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.KhoWetGoods.frmNhapWetGoods.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.KhoWetGoods.frmQuanLyWetGoods.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.KhoWetGoods.frmXuatWetGoods.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.NhanVien.frmTiepNhanNhanVien.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.NhanVien.frmTraCuuNhanVien.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.PhanAn.frmDangNhapNhanVien.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.PhanAn.frmGiamGia.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.PhanAn.frmThanhToan.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.PhanAn.frmTiepNhanPhanAn.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.QuanLyChung.frmDangNhapQuanLy.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.QuanLyChung.frmTrungTamQuanLy.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.Properties.Resources.resources
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.exe
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\ChickStore\obj\Debug\ChickStore.pdb
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\bin\Debug\ChickStore.exe.config
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.exe
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.pdb
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\bin\Debug\ChickStore.exe
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\bin\Debug\ChickStore.pdb
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\bin\Debug\BussinessAccessLayer.dll
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\bin\Debug\DataAccessLayer.dll
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\bin\Debug\DataAccessLayer.pdb
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\bin\Debug\BussinessAccessLayer.pdb
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.csprojResolveAssemblyReference.cache
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.CongVaLuong.frmChamCong.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.CongVaLuong.frmTinhLuong.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.DoanhThu.frmQuanLyThuChiCuoiCa.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.DoanhThu.frmQuanLyThuChiCuoiThang.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.Khac.frmAbout.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.Khac.frmSplash.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.KhoWetGoods.frmNhapWetGoods.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.KhoWetGoods.frmQuanLyWetGoods.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.KhoWetGoods.frmXuatWetGoods.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.NhanVien.frmTiepNhanNhanVien.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.NhanVien.frmTraCuuNhanVien.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.PhanAn.frmDangNhapNhanVien.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.PhanAn.frmGiamGia.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.PhanAn.frmThanhToan.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.PhanAn.frmTiepNhanPhanAn.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.QuanLyChung.frmDangNhapQuanLy.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.QuanLyChung.frmTrungTamQuanLy.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.Properties.Resources.resources
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\ChickStore\obj\Debug\ChickStore.csproj.GenerateResource.Cache

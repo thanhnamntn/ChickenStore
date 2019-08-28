@@ -1,0 +1,7 @@
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\BussinessAccessLayer\bin\Debug\BussinessAccessLayer.dll
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\BussinessAccessLayer\bin\Debug\BussinessAccessLayer.pdb
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\BussinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\BussinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.dll
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.pdb

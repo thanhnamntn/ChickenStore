@@ -1,0 +1,10 @@
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Nam\Desktop\PJ_CNPM_14110436_14110363\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\STUDY\Software Technique\ProjectFinal\PJ_CNPM\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
